@@ -1,0 +1,26 @@
+title: Pedro Rodriguez-Martinez
+url: "https://perodmar.github.io"
+#baseurl: "/researcher"
+
+markdown: kramdown
+tracking_id: UA-222946662-1
+
+footer: yes
+#footer_url: "https://github.com/ankitsultana"
+#footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed 
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "index"
+ - name: "Research"
+   link: "research"
+ - name: "Teaching"
+   link: "teaching"
+ - name: "CV"
+   link: "files/RodriguezPedro_CV.pdf"
+
+

@@ -1,0 +1,61 @@
+@import "vars";
+
+.content {
+    a:hover {
+        text-decoration: underline;
+    }
+    ol {
+        counter-reset: list;
+    }
+    ol > li {
+        list-style-position: none;
+        position: relative;
+        list-style: none;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    ul > li {
+        margin: 5px 0 5px 0;
+    }
+    ul {
+        padding: 0 20px 0 20px;;
+    }
+    ol {
+        padding: 0 30px 0 30px;
+    }
+    ol > li:before {
+        content: "[" counter(list, decimal) "] ";
+        counter-increment: list;
+        position: absolute;
+        left: -30px;
+    }
+    blockquote {
+        //border: 1px solid black;
+        border-left: 5px solid #333333;
+        margin: 20px 0 20px 0;
+        padding: 2px 8px 2px 8px;
+        font-style: italic;
+    }
+    .profile-picture {
+            float: right;                // remove float
+            display: inline-block;         // make margin auto work
+            margin: -20px 20px 20px 20px;     // center horizontally
+            width: 20%;                 // shrink image to fit small screen
+            height: auto;               // keep aspect ratio
+            border-radius: 6px;          // optional: soften edges
+    
+        @media (max-width: $small-width) {  // only for phones / small screens
+            float: none;                // remove float
+            display: block;             // make margin auto work
+            margin: 20px auto 10px;     // center horizontally
+            width: 70%;                 // shrink image to fit small screen
+            height: auto;               // keep aspect ratio
+        }
+    }
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* keep proportions */
+        border-radius: inherit
+    }
+}
