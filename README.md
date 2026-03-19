@@ -1,7 +1,5 @@
-# Researcher
+# Academic Site
 
-This site was forked from: https://github.com/ankitsultana/researcher
+This is my professional website. It outlines publications, teaching, and current projects. 
 
-### License
 
-[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
