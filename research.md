@@ -26,12 +26,12 @@ details[open] .toggle-indicator::after {
  <li>
 <details>
   <summary>
-      Crime-Differential Responses to an Environmental Shock: Evidence from Blackouts<br>
-      <strong style="color:#0437F2">Economic Development and Cultural Change</strong><br>
+      Crime-Differential Responses to an Environmental Shock: Evidence from Blackouts
       (with <a href="https://sites.google.com/site/pdomingr/">Patricio Dominguez</a>)
       [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4921694">SSRN</a>]
       [<a href="https://www.journals.uchicago.edu/doi/10.1086/740877">Link</a>]
-      (<span class="toggle-indicator"></span>)
+      (<span class="toggle-indicator"></span>)<br>
+      <strong style="color:#0437F2">Economic Development and Cultural Change</strong>
   </summary>
 
   <div style="display: flex; align-items: flex-start; margin-top: 8px;">
