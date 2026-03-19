@@ -29,9 +29,9 @@ details[open] .toggle-indicator::after {
       Crime-Differential Responses to an Environmental Shock: Evidence from Blackouts
       (with <a href="https://sites.google.com/site/pdomingr/">Patricio Dominguez</a>)
       [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4921694">SSRN</a>]
-      [<a href="https://www.journals.uchicago.edu/doi/10.1086/740877">Link</a>]
-      (</strong><span class="toggle-indicator"></span>) 
+      [<a href="https://www.journals.uchicago.edu/doi/10.1086/740877">Link</a>] 
       <strong style="margin-bottom: 5px; color:#0437F2"> Economic Development and Cultural Change 
+      (</strong><span class="toggle-indicator"></span>)
   </summary>
 
   <div style="display: flex; align-items: flex-start; margin-top: 8px;">
