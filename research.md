@@ -26,12 +26,12 @@ details[open] .toggle-indicator::after {
  <li>
 <details>
   <summary>
-      Crime-Differential Responses to an Environmental Shock: Evidence from Blackouts
+      Crime-Differential Responses to an Environmental Shock: Evidence from Blackouts<br>
+      <strong style="color:#0437F2">Economic Development and Cultural Change</strong><br>
       (with <a href="https://sites.google.com/site/pdomingr/">Patricio Dominguez</a>)
       [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4921694">SSRN</a>]
-      [<a href="https://www.journals.uchicago.edu/doi/10.1086/740877">Link</a>] 
-      <strong style="margin-bottom: 5px; color:#0437F2"> Economic Development and Cultural Change 
-      (</strong><span class="toggle-indicator"></span>)
+      [<a href="https://www.journals.uchicago.edu/doi/10.1086/740877">Link</a>]
+      (<span class="toggle-indicator"></span>)
   </summary>
 
   <div style="display: flex; align-items: flex-start; margin-top: 8px;">
@@ -51,7 +51,7 @@ details[open] .toggle-indicator::after {
   <details>
   <summary>
       The Within-Family Labor Market Effects of Incarceration: Evidence from Ecuador
-      [<a href="https://perodmar.github.io/files/Incarceration_Labor_Outcomes.pdf">Job Market Paper</a>] 
+      [<a href="https://perodmar.github.io/files/Incarceration_Labor_Outcomes.pdf">Job Market Paper</a>]
       (<span class="toggle-indicator"></span>)
   </summary>
 
@@ -69,7 +69,7 @@ details[open] .toggle-indicator::after {
 <details>
   <summary>
       The Spatial Distribution of Building Volumes in 7,000 World Cities: Global Data and Old and New Stylized Facts
-      (with <a href="https://www.remijedwab.com/">Remi Jedwab</a>, <a href="https://www.worldbank.org/en/about/people/k/klaus-deininger">Klaus Deininger</a>, and <a href="https://scholar.google.de/citations?user=g2OVq2cAAAAJ&hl=de">Thomas Esch</a>) 
+      (with <a href="https://www.remijedwab.com/">Remi Jedwab</a>, <a href="https://www.worldbank.org/en/about/people/k/klaus-deininger">Klaus Deininger</a>, and <a href="https://scholar.google.de/citations?user=g2OVq2cAAAAJ&hl=de">Thomas Esch</a>)
       (<span class="toggle-indicator"></span>)
   </summary>
 
@@ -88,7 +88,7 @@ details[open] .toggle-indicator::after {
   <summary>
       Police Video Surveillance and Crime: Evidence from a Nationwide Policy
       (with <a href="https://sites.google.com/site/pdomingr/">Patricio Dominguez</a>)
-      [<a href="https://perodmar.github.io/files/Crime_and_Video_Surveillance.pdf">Link</a>] 
+      [<a href="https://perodmar.github.io/files/Crime_and_Video_Surveillance.pdf">Link</a>]
       (<span class="toggle-indicator"></span>)
   </summary>
 
