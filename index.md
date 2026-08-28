@@ -20,7 +20,7 @@ details[open] .toggle-indicator::after {
 }
 </style>
 
-## About
+## About:
 
 <img class="profile-picture" src="files/headshot.jpg">
 
@@ -32,14 +32,14 @@ My research interests are in **applied microeconomics** with a focus on **public
 
 For more information, see my [CV](files/RodriguezPedro_CV.pdf).
 
-## Contact
+## Contact:
 <p style="margin: 0;">Email: <a href="mailto:p.rodriguezmartinez@cunef.edu">p.rodriguezmartinez@cunef.edu</a></p>
 <p style="margin: 0;">Twitter: <a href="https://twitter.com/perodmar">@perodmar</a></p>
 <p style="margin: 0;">GitHub: <a href="https://github.com/perodmar">@perodmar</a></p>
 
-## Research
+## Research:
 
-### Publications:
+### Publications
 
 <ol>
  <li>
@@ -64,7 +64,7 @@ For more information, see my [CV](files/RodriguezPedro_CV.pdf).
 </li>
 </ol>
 
-### Working Papers:
+### Working Papers
 <ol>
  <li>
   <details>
@@ -123,7 +123,7 @@ For more information, see my [CV](files/RodriguezPedro_CV.pdf).
     </li>
 </ol>
 
-### Selected Work in Progress:
+### Selected Work in Progress
 <ol>
     <li>The Long-Term Global Effects of Earthquakes on Urban Growth (with <a href="https://www.remijedwab.com/">Remi Jedwab</a>)</li>
      <li>The Impact of Drug-Related Violence on Educational Outcomes (with <a href="https://djaramilloc.github.io/">Daniel Jaramillo Calderon</a> and Cristian Carrion)</li>
@@ -131,7 +131,7 @@ For more information, see my [CV](files/RodriguezPedro_CV.pdf).
     <li>Land-use Regulations and Construction Patterns: Global Evidence (with <a href="https://www.remijedwab.com/">Remi Jedwab</a> and <a href="https://www.worldbank.org/en/about/people/k/klaus-deininger">Klaus Deininger</a>)</li>
 </ol>
 
-### Op-eds:
+### Op-eds
 
 <ol>
     <li>Ideas to safely reduce prison populations during the pandemic (Ideas Matter - May 2020)
@@ -144,7 +144,14 @@ For more information, see my [CV](files/RodriguezPedro_CV.pdf).
 </ol>
 
 ## Teaching:
-### George Washington University:
+
+### CUNEF University
+
+<ol>
+  <li style="display:block;font-size:0.9rem;">Global Economic Environment (Undergraduate)</li>
+</ol>
+
+### George Washington University (TA)
 
 <ol>
   <li style="display:block;font-size:0.9rem;">Principles of Microeconomics (Undergraduate)</li>
