@@ -1,6 +1,9 @@
 @import "vars";
-
+ 
 .content {
+    h2 {
+        text-decoration: underline;
+    }
     a:hover {
         text-decoration: underline;
     }
