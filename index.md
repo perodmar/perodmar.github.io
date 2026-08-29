@@ -151,15 +151,15 @@ For more information, see my [CV](files/RodriguezPedro_CV.pdf).
 ### CUNEF University
 
 <ol>
-  <li style="display:block;font-size:0.9rem;">Global Economic Environment (Undergraduate)</li>
+  <li style="display:block;font-size:0.9rem;">Global Economic Environment</li>
 </ol>
 
 ### George Washington University (TA)
 
 <ol>
-  <li style="display:block;font-size:0.9rem;">Principles of Microeconomics (Undergraduate)</li>
-  <li style="display:block;font-size:0.9rem;">Principles of Macroeconomics (Undergraduate)</li>
-  <li style="display:block;font-size:0.9rem;">Mathematics for Economics (Undergraduate)</li>
-  <li style="display:block;font-size:0.9rem;">Urban Economics (Undergraduate)</li>
+  <li style="display:block;font-size:0.9rem;">Principles of Microeconomics</li>
+  <li style="display:block;font-size:0.9rem;">Principles of Macroeconomics</li>
+  <li style="display:block;font-size:0.9rem;">Mathematics for Economics</li>
+  <li style="display:block;font-size:0.9rem;">Urban Economics</li>
 </ol>
 
