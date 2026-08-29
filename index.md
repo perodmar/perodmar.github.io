@@ -32,6 +32,8 @@ My research interests are in **applied microeconomics** with a focus on **public
 
 For more information, see my [CV](files/RodriguezPedro_CV.pdf).
 
+<div style="clear:both"></div>
+
 ## Contact:
 <p style="margin: 0;">Email: <a href="mailto:p.rodriguezmartinez@cunef.edu">p.rodriguezmartinez@cunef.edu</a></p>
 <p style="margin: 0;">Twitter: <a href="https://twitter.com/perodmar">@perodmar</a></p>
