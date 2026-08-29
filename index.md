@@ -36,6 +36,7 @@ For more information, see my [CV](files/RodriguezPedro_CV.pdf).
 <p style="margin: 0;">Email: <a href="mailto:p.rodriguezmartinez@cunef.edu">p.rodriguezmartinez@cunef.edu</a></p>
 <p style="margin: 0;">Twitter: <a href="https://twitter.com/perodmar">@perodmar</a></p>
 <p style="margin: 0;">GitHub: <a href="https://github.com/perodmar">@perodmar</a></p>
+<hr>
 
 ## Research:
 
@@ -142,6 +143,7 @@ For more information, see my [CV](files/RodriguezPedro_CV.pdf).
         [<a href="https://blogs.iadb.org/ideas-matter/en/pandemic-and-prisons-what-are-the-challenges-for-latin-american-governments/">English</a>]
         [<a href="https://blogs.iadb.org/ideas-que-cuentan/es/la-pandemia-y-las-prisiones-cuales-son-los-desafios-para-los-gobiernos-de-america-latina/">Español</a>]</li>
 </ol>
+<hr>
 
 ## Teaching:
 
