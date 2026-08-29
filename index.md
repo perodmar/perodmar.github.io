@@ -32,12 +32,11 @@ My research interests are in **applied microeconomics** with a focus on **public
 
 For more information, see my [CV](files/RodriguezPedro_CV.pdf).
 
-<div style="clear:both"></div>
-
 ## Contact:
 <p style="margin: 0;">Email: <a href="mailto:p.rodriguezmartinez@cunef.edu">p.rodriguezmartinez@cunef.edu</a></p>
-<p style="margin: 0;">Twitter: <a href="https://twitter.com/perodmar">@perodmar</a></p>
+<p style="margin: 0;">Twitter (X): <a href="https://twitter.com/perodmar">@perodmar</a></p>
 <p style="margin: 0;">GitHub: <a href="https://github.com/perodmar">@perodmar</a></p>
+<div style="clear:both"></div>
 <hr>
 
 ## Research:
@@ -73,7 +72,7 @@ For more information, see my [CV](files/RodriguezPedro_CV.pdf).
   <details>
   <summary>
       The Within-Family Labor Market Effects of Incarceration: Evidence from Ecuador
-      [<a href="https://perodmar.github.io/files/Incarceration_Labor_Outcomes.pdf">Job Market Paper</a>]
+      [<a href="https://perodmar.github.io/files/Incarceration_Labor_Outcomes.pdf">Link</a>]
       (<span class="toggle-indicator"></span>)
   </summary>
 
