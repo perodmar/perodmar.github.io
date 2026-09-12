@@ -52,7 +52,7 @@ For more information, see my [CV](files/RodriguezPedro_CV.pdf).
       [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4921694">SSRN</a>]
       [<a href="https://www.journals.uchicago.edu/doi/10.1086/740877">Link</a>]
       (<span class="toggle-indicator"></span>)<br>
-      <strong style="color:#0437F2">Economic Development and Cultural Change</strong>
+      <strong style="color:#0437F2">Economic Development and Cultural Change</strong>, Volume 75, Nbr 1, October 2026 (pp. 65-93)
   </summary>
 
   <div style="display: flex; align-items: flex-start; margin-top: 8px;">
