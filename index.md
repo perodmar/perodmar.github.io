@@ -24,11 +24,11 @@ details[open] .toggle-indicator::after {
 
 <img class="profile-picture" src="files/headshot.jpg">
 
-I am a Lecturer in Economics at CUNEF University.
+I am a Lecturer in Economics at CUNEF University. I am 
 
 I received my Ph.D. in Economics from George Washington University in 2026.
 
-My research interests are in **applied microeconomics** with a focus on **public**, **urban** and **development** economics.
+My research interests are in **applied microeconomics** with a focus on **development** and **urban** economics.
 
 For more information, see my [CV](files/RodriguezPedro_CV.pdf).
 
