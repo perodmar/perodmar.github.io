@@ -24,7 +24,7 @@ details[open] .toggle-indicator::after {
 
 <img class="profile-picture" src="files/headshot.jpg">
 
-I am a Lecturer in Economics at CUNEF University. I am 
+I am a Lecturer in Economics at CUNEF University. 
 
 I received my Ph.D. in Economics from George Washington University in 2026.
 
