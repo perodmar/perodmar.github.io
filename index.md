@@ -26,7 +26,7 @@ details[open] .toggle-indicator::after {
 
 I am a Lecturer in Economics at CUNEF University. 
 
-I am also affiliated with the <a href="https://cer.columbian.gwu.edu/">Center for Economics Research</a> and the <a href="https://spande.net/#news">SPANDE</a> network. 
+I am also affiliated with the <a href="https://cer.columbian.gwu.edu/">Center for Economic Research</a> and the <a href="https://spande.net/#news">SPANDE</a> network. 
 
 I received my Ph.D. in Economics from George Washington University in 2026.
 
