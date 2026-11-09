@@ -26,6 +26,8 @@ details[open] .toggle-indicator::after {
 
 I am a Lecturer in Economics at CUNEF University. 
 
+I am also affiliated with the <a href="https://cer.columbian.gwu.edu/">Center for Economics Research</a> and the <a href="https://spande.net/#news">SPANDE</a> network. 
+
 I received my Ph.D. in Economics from George Washington University in 2026.
 
 My research interests are in **applied microeconomics** with a focus on **development** and **urban** economics.
@@ -130,7 +132,7 @@ For more information, see my [CV](files/RodriguezPedro_CV.pdf).
     <li>The Long-Term Global Effects of Earthquakes on Urban Growth (with <a href="https://www.remijedwab.com/">Remi Jedwab</a>)</li>
      <li>The Impact of Drug-Related Violence on Educational Outcomes (with <a href="https://djaramilloc.github.io/">Daniel Jaramillo Calderon</a> and Cristian Carrion)</li>
      <li>From Incarceration to Reintegration: Family Responses to Prisoner Release (with <a href="https://djaramilloc.github.io/">Daniel Jaramillo Calderon</a> and Cristian Carrion)</li>
-    <li>Land-use Regulations and Construction Patterns: Global Evidence (with <a href="https://www.remijedwab.com/">Remi Jedwab</a> and <a href="https://www.worldbank.org/en/about/people/k/klaus-deininger">Klaus Deininger</a>)</li>
+    <li>Electronic Billing and Tax Compliance: Evidence from El Salvador and Panama (with <a href="https://aflopezluzuriaga.github.io/website/">Andrea Lopez-Luzuriaga</a>)</li>
 </ol>
 
 ### Op-eds
